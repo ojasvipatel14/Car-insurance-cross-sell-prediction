@@ -1,2 +1,2 @@
 # Car-insurance-cross-sell-prediction
-Predicting if the customer will buy the insurance or not based on the data given like if the car is damaged or not, if the customer has any existing insurance or not etc. factors. Leveraged foundational Python libraries like Matplotlib, Pandas, NumPy, logistic regressor and sklearn.
+Predicting customer insurance purchases based on factors such as car damage status and existing insurance coverage was achieved using foundational Python libraries. I leveraged tools like Matplotlib, Pandas, NumPy, and scikit-learn (sklearn) to preprocess the data and utilized logistic regression for prediction. This project enhanced my ability to apply machine learning techniques to real-world datasets effectively.
